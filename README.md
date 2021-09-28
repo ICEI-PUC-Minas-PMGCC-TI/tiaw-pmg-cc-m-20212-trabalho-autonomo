@@ -14,6 +14,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 ## Professores responsáveis
 
 * Fatima De Lima Procopio Duarte
+* Rommel
 
 ## Instruções de utilização
 
