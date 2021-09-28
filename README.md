@@ -10,11 +10,12 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Bruno Zandona
 * Luisa Nogueira Campos Silva Souza
 * Victor Lopes Azevedo Araujo
-
+* 
 ## Professores responsáveis
 
 * Fatima De Lima Procopio Duarte
-* Rommel
+* Rommel Vieira Carneiro
+* João Carlos Oliveira Caetano
 
 ## Instruções de utilização
 
