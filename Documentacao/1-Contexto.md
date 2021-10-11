@@ -1,8 +1,8 @@
 # Introdução
 
-   A adoção de tecnologias de comunicação e informação apresentou-se como uma das principais características da vida cotidiana em sociedade no século XXI e contribuiu para uma série de melhorias na qualidade de vida das pessoas, que hodiernamente estão mais conectadas do que nunca. 
-   O advento da análise de dados e livre compartilhamento de informações, características da web semântica, permitiram que os usuários das mais diversas esferas da internet contribuíssem diretamente para o estabelecimento de uma “rede”  de compartilhamento de informações, ideias e conhecimento. Entretanto, ao analisar a forma como alguns setores do mercado interagem com esta “rede” nota-se que apesar da modernização das relações de busca e exposição de serviços, este setor se manteve majoritariamente inalterado ao longo dos anos. 
-   Neste sentido, observa-se que uma das causas da lacuna na modernização deste setor é a falta de uma ferramenta que possibilite a conexão entre seus dois principais componentes: Prestadores de serviços e Indivíduos que buscam por esses serviços.
+A adoção de tecnologias de comunicação e informação apresentou-se como uma das principais características da vida cotidiana em sociedade no século XXI e contribuiu para uma série de melhorias na qualidade de vida das pessoas, que hodiernamente estão mais conectadas do que nunca. 
+O advento da análise de dados e livre compartilhamento de informações, características da web semântica, permitiram que os usuários das mais diversas esferas da internet contribuíssem diretamente para o estabelecimento de uma “rede”  de compartilhamento de informações, ideias e conhecimento. Entretanto, ao analisar a forma como alguns setores do mercado interagem com esta “rede” nota-se que apesar da modernização das relações de busca e exposição de serviços, este setor se manteve majoritariamente inalterado ao longo dos anos. 
+Neste sentido, observa-se que uma das causas da lacuna na modernização deste setor é a falta de uma ferramenta que possibilite a conexão entre seus dois principais componentes: Prestadores de serviços e Indivíduos que buscam por esses serviços.
 
 ## Problema
    O problema é fundamentado justamente na ausência de uma ferramenta de fácil acesso e amplamente divulgada que possibilite a divulgação e contratação de serviços das mais diversas esferas deste setor na sociedade brasileira. 
@@ -11,8 +11,8 @@
 
    O principal objetivo do projeto é o desenvolvimento de uma ferramenta que possibilite a “conexão” entre as duas partes fundamentais do setor de serviços (prestadores e contratantes).
    A ferramenta será fundamentada em diretrizes pensadas nas necessidades das duas partes:
->  [Um ambiente de fácil acesso para que usuários possam pesquisar, comparar e analisar serviços.]
->  [Um ambiente centralizado para que usuários possam divulgar seus serviços e interagir de forma direta com possíveis contratantes.]
+ - Um ambiente de fácil acesso para que usuários possam pesquisar, comparar e analisar serviços.
+ - Um ambiente centralizado para que usuários possam divulgar seus serviços e interagir de forma direta com possíveis contratantes.
 
 
 ## Justificativa
@@ -23,7 +23,7 @@
 ## Público-Alvo
 
    O público alvo, assim como o desenvolvimento do projeto, é fundamentado em duas frentes:
--Prestadores de Serviços: Indivíduos de todas as idades que prestam os mais diversos tipos de serviços e que se beneficiaram de um ambiente/ferramenta por onde poderiam divulgar seus serviços e interagir com possíveis contratantes.
--Contratadores de Serviços: Indivíduos de todas as idades que eventualmente contratam serviços e não possuem um ambiente/ferramenta para buscar os serviços desejados, comparar preços e contatar os prestadores.
+- Prestadores de Serviços: Indivíduos de todas as idades que prestam os mais diversos tipos de serviços e que se beneficiaram de um ambiente/ferramenta por onde poderiam divulgar seus serviços e interagir com possíveis contratantes.
+- Contratadores de Serviços: Indivíduos de todas as idades que eventualmente contratam serviços e não possuem um ambiente/ferramenta para buscar os serviços desejados, comparar preços e contatar os prestadores.
 
  
