@@ -1,5 +1,9 @@
 # Introdução
 
+>A adoção de tecnologias de comunicação e informação apresentou-se como uma das principais >características da vida cotidiana em sociedade no século XXI e contribuiu para uma série de melhorias >na qualidade de vida das pessoas, que hodiernamente estão mais conectadas do que nunca. 
+>O advento da análise de dados e livre compartilhamento de informações, características da web semântica, permitiram que os usuários das mais diversas esferas da internet contribuíssem diretamente para o estabelecimento de uma “rede”  de compartilhamento de informações, ideias e conhecimento. Entretanto, ao analisar a forma como alguns setores do mercado interagem com esta “rede” nota-se que apesar da modernização das relações de busca e exposição de serviços, este setor se manteve majoritariamente inalterado ao longo dos anos. 
+Neste sentido, observa-se que uma das causas da lacuna na modernização deste setor é a falta de uma ferramenta que possibilite a conexão entre seus dois principais componentes: Prestadores de serviços e Indivíduos que buscam por esses serviços.
+
 ## Problema
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
