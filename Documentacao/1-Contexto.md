@@ -1,65 +1,29 @@
 # Introdução
 
->A adoção de tecnologias de comunicação e informação apresentou-se como uma das principais >características da vida cotidiana em sociedade no século XXI e contribuiu para uma série de melhorias >na qualidade de vida das pessoas, que hodiernamente estão mais conectadas do que nunca. 
->O advento da análise de dados e livre compartilhamento de informações, características da web semântica, permitiram que os usuários das mais diversas esferas da internet contribuíssem diretamente para o estabelecimento de uma “rede”  de compartilhamento de informações, ideias e conhecimento. Entretanto, ao analisar a forma como alguns setores do mercado interagem com esta “rede” nota-se que apesar da modernização das relações de busca e exposição de serviços, este setor se manteve majoritariamente inalterado ao longo dos anos. 
-Neste sentido, observa-se que uma das causas da lacuna na modernização deste setor é a falta de uma ferramenta que possibilite a conexão entre seus dois principais componentes: Prestadores de serviços e Indivíduos que buscam por esses serviços.
+   A adoção de tecnologias de comunicação e informação apresentou-se como uma das principais características da vida cotidiana em sociedade no século XXI e contribuiu para uma série de melhorias na qualidade de vida das pessoas, que hodiernamente estão mais conectadas do que nunca. 
+   O advento da análise de dados e livre compartilhamento de informações, características da web semântica, permitiram que os usuários das mais diversas esferas da internet contribuíssem diretamente para o estabelecimento de uma “rede”  de compartilhamento de informações, ideias e conhecimento. Entretanto, ao analisar a forma como alguns setores do mercado interagem com esta “rede” nota-se que apesar da modernização das relações de busca e exposição de serviços, este setor se manteve majoritariamente inalterado ao longo dos anos. 
+   Neste sentido, observa-se que uma das causas da lacuna na modernização deste setor é a falta de uma ferramenta que possibilite a conexão entre seus dois principais componentes: Prestadores de serviços e Indivíduos que buscam por esses serviços.
 
 ## Problema
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+   O problema é fundamentado justamente na ausência de uma ferramenta de fácil acesso e amplamente divulgada que possibilite a divulgação e contratação de serviços das mais diversas esferas deste setor na sociedade brasileira. 
 
 ## Objetivos
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+   O principal objetivo do projeto é o desenvolvimento de uma ferramenta que possibilite a “conexão” entre as duas partes fundamentais do setor de serviços (prestadores e contratantes).
+   A ferramenta será fundamentada em diretrizes pensadas nas necessidades das duas partes:
+>  [Um ambiente de fácil acesso para que usuários possam pesquisar, comparar e analisar serviços.]
+>  [Um ambiente centralizado para que usuários possam divulgar seus serviços e interagir de forma direta com possíveis contratantes.]
+
 
 ## Justificativa
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+   A pesquisa qualitativa realizada pelos membros do grupo apontou que a principal forma pela qual as pessoas divulgam/encontram os serviços que procuram é através da recomendação de amigos e familiares seguida pelas redes sociais. Além disso, observamos que 21% das pessoas entrevistadas consideram difícil encontrar os serviços que desejam e a grande maioria dos entrevistados (65,7%) apontaram que alguns tipos de serviço não são fáceis de encontrar.
+   Ademais, o setor de serviços corresponde a mais de 70% do PIB no Brasil (IBGE - 2020) é uma ferramenta que facilita as interações deste setor apresenta-se como extremamente viável e vantajosa, tanto para usuários (prestadores de serviços ou não) quanto para o mercado.
 
 ## Público-Alvo
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+   O público alvo, assim como o desenvolvimento do projeto, é fundamentado em duas frentes:
+-Prestadores de Serviços: Indivíduos de todas as idades que prestam os mais diversos tipos de serviços e que se beneficiaram de um ambiente/ferramenta por onde poderiam divulgar seus serviços e interagir com possíveis contratantes.
+-Contratadores de Serviços: Indivíduos de todas as idades que eventualmente contratam serviços e não possuem um ambiente/ferramenta para buscar os serviços desejados, comparar preços e contatar os prestadores.
+
  
