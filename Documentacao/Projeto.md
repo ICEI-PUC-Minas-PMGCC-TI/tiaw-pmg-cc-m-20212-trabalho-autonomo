@@ -1,19 +1,22 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+# Collegare
 
 Trabalho Interdisciplinar - Aplicacões Web
 
-`CURSO`
+- Curso: Ciência da Computação - PUC MG
 
-`SEMESTRE`
+- Período: Primeiro Semestre 
 
 ## Participantes
 
-Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
+Os membros do grupo são:
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
+- Luisa Nogueira Campos Silva Souza
+- Ricardo Henrique Guedes Furiati
+- Lucas Maia Rocha
+- Bruno Zandona
+- Victor Lopes Azevedo Araujo
+
 
 # Estrutura do Documento
 
