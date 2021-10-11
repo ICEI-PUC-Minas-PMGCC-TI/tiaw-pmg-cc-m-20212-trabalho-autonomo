@@ -1,16 +1,17 @@
 # Gerenciamento de Projeto
 
-> Descreva aqui a metodologia de trabalho do grupo para atacar o
-> problema.
+A metodologia adotada para o projeto foi fundamentada no "brainstorming" de ideias associadas a cada etapa do projeto. 
+Multiplas reuniões semanais permitiram que ideias novas fossem debatidas e incorporadas no projeto, além de assegurar que todos os membros encontravam-se a par do desenvolvimento.
 
 ## Divisão de Papéis
 
-> Apresente a divisão de papéis entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+- Contexto: Luísa Nogueira, Ricardo Furiati, Bruno Zandona, Lucas Maia, Victor Lopes.
+- Especificações do Projeto: Luísa Nogueira, Ricardo Furiati, Bruno Zandona, Lucas Maia, Victor Lopes.
+- Projeto de Interface: Ricardo Furiati, Lucas Maia, Victor Lopes, Luísa Nogueira.
+- Gestão/Configuração: Luisa Nogueira, Lucas Maia, Victor Lopes.
+- Gerenciamento do Projeto: Ricardo Furiati, Bruno Zandona. 
+- Implementação: Ricardo Furiati, Lucas Maia, Victor Lopes.
+
 
 ## Processo
 
@@ -27,24 +28,13 @@
 
 ## Ferramentas
 
-As ferramentas empregadas no projeto são:
+As ferramentas utilizadas para o desenvolvimento do projeto foram:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
+- Editor de código: VS CODE
+> Esse editor foi escolhido por ser um dos editores de código mais completos disponíveis no mercado. Além de possuir integração com ferramentas Git e possuir uma grande facilidade de uso.
+- Ferramentas de comunicação: WhatsAPP, Microsoft Teams, Discord 
+> A principal ferramenta de comunicação utilizada foi o mensageiro WhatsApp, que permitiu comunicação rápida e direta entre os membros do grupo. Além do mensageiro, utilizamos das ferramentas de chamada do MicrosoftTeams e Discord para realizar reuniões.
+- Ferramentas de diagramação: Figma, Photoshop 
+> Escolhemos o Figma como ferramenta de diagramação para construção dos wireframes e projeto de interface.
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-> Liste quais ferramentas foram empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
 > 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [![Slack](images/slack.jpg)](https://slack.com/)
-> - [![Trello](images/trello.png)](https://trello.com/)
-> 
-> - [![Microsof Project](images/project.png)](https://products.office.com/pt-br/project/project-and-portfolio-management-software)
-> - [![Redbooth](images/redbooth.png)](https://redbooth.com/)
