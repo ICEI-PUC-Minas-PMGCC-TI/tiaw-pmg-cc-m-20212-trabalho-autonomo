@@ -1,34 +1,50 @@
 # Especificações Do Projeto
-
-<span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Nesta aba você encontrará as personas e suas histórias, assim como os requisitos desenvolvidos a partir das necessidades das personas.
 
 ## Personas
+### Joana Santos <br />
+> Idade: 33 anos <br />
+> Hobby: Ler livros<br />
+> Trabalho: Artista/Pintora <br />
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+ - **Personalidade:** É muito criativa, companheira e gosta de expressar seus sentimentos através de seus trabalhos, uma vez que é muito introvertida 
+ - **História do usuário:**
+  Joana tem o sonho de se tornar uma grande artista e ter suas obras conhecidas mundialmente. Porém ela precisa de um começo na venda de seus produtos, por isso, caso se inscrevesse na plataforma Collegare, aquelas pessoas que estiverem interessadas e que fossem amantes de quadros poderão conhecer seu trabalho e comprar suas obras, fazendo com que seu trabalho expanda.  Como ela utiliza muito seu celular e computador essa seria a melhor forma de divulgar sua mão de obra.
+
+### Carlos Antônio<br />
+> Idade: 40 anos <br />
+> Hobby: Ir a eventos sobre carros <br />
+> Trabalho: Mecânico <br />
+
+- **Personalidade:**
+Carlos é uma pessoa que valoriza muito sua família e seus amigos, e sempre busca ajudar as pessoas com suas habilidades e seu trabalho.
+
+- **História do usuário:**
+Antes de conhecer a plataforma Collegare, Carlos possuía poucos clientes, o que era ruim para seu negócio, mas quando se inscreveu no aplicativo, sua clientela começou a crescer, o que permitiu com que reformasse sua oficina e pudesse expandir o seu trabalho como mecânico.  
+
+### Matilda Rodrigues<br />
+> Idade: 65 anos <br />
+> Hobby: Cultivar plantas <br />
+> Trabalho: Advogada <br />
+
+- **Personalidade:**
+Matilda é uma pessoa tranquila, sorridente e amorosa. Gosta de cultivar plantas para se livrar do estresse que é causado devido a seu trabalho.
+
+- **História do usuário:**
+ Matilda tem o sonho de ter sua própria floricultura, mas como é uma pessoa muito ocupada devido a seu trabalho como advogada, acaba que não possui tempo nem para organizar e limpar sua casa. Quando conheceu o aplicativo Collegare, sua vida mudou. Através do aplicativo ela conheceu Carla que trabalha como diarista, assim Matilda não tinha que se preocupar mais com sua casa e Carla pode ganhar pontos no aplicativo favorecendo assim seu trabalho.
+ 
+ ###  Marcos Fernandes Silva<br />
+> Idade: 18 anos <br />
+> Hobby: Gosta de jogar videogames e aprender línguas novas <br />
+> Trabalho: Estudante <br />
+
+- **Personalidade:**
+Marcos é extrovertido, gosta de discussões e de expor seus pensamentos. Tem como qualidades o espírito de liderança, facilidade em se comunicar e sua paciência e dedicação, além disso Marcos também é muito perfeccionista
+
+- **História do usuário:**
+ O seu primeiro sonho é conquistar sua independência financeira, o segundo sonho de Marcos é ser fluente em pelo menos 3 línguas estrangeiras. A partir de um anúncio que viu em seu instagram, Marcos conheceu a Collegare e viu que lá ele conseguiria contratar professores  que davam aula de diversas línguas. Assim que entrou em contato com Jorge, um professor de alemão, ele começou suas aulas como queria. Marcos pretende morar fora após cursar Engenharia de energia, portanto pensa que é importante saber mais de uma língua, além do inglês.
 
 
-> Enumere e detalhe as personas da sua solução. Para
-> tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-> Lembre-se que você deve ser enumerar e descrever precisamente e
-> personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
@@ -36,19 +52,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Prestador de Serviços| Divulgar meus serviços           | Aumentar minha clientela            |
+|Prestador de Serviços| Chat de Texto           | Permitir contato direto com meus clientes |
+|Contratante de Serviços| Mapa da minha região          | Encontrar prestadores de serviços perto de onde estou |
+|Contratante de Serviços| Browser de Serviços          | Comparar o preços dos serviços |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+
+
+
 
 ## Requisitos
 
@@ -58,8 +69,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário cadastre seus serviços | ALTA | 
+|RF-002| Permitir que o usuário entre em contato com prestadores | ALTA | 
+|RF-003| Permitir que o usuário busque serviços em sua região | MÉDIA | 
+|RF-004| Permitir que o usuário compare preços de serviços| ALTA | 
+|RF-005| Permitir que Indique amigos para a plataforma | BAIXA | 
 
 
 ### Requisitos não Funcionais
@@ -67,25 +81,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Deve rodar nos principais navegadores do mercado| ALTA | 
+|RNF-003| O sistema deve possuir um modo noturno| ALTA | 
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais
->   (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais
->   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+
 
 ## Restrições
 
@@ -94,12 +93,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|02| Requer conexão com a internet       |
+|03| Deverá ser documentado no github     |
 
 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
