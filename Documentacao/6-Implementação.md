@@ -1,49 +1,89 @@
 # Projeto da Solução
 
-<span style="color:red">Pré-requisitos: <a href="4-Gestão-Configuração.md"> Ambiente e Ferramentas de Trabalho</a></span>
-
 ## Tecnologias Utilizadas
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+As tecnologias utilizadas para implementação do projeto foram:
+  * Front-End: Arquivos HTML, CSS e JavaScript que em conjunto formam a página WEB.
+    * Para o desenvolvimento da página HTML foi utilizado o framework "bootstrap" que permite maior facilidade no desenvolvimento da responsividade.
+    * A biblioteca "Font-Awesome" foi utilizada para incluir todos os ícones da aplicação de forma integrada
+    * Os ambientes de desenvolvimento escolhidos foram o "Visual Studio Code" e a ferramenta "replit" de acordo com a preferência do desenvolvedor.
+    * Os artefatos específicos foram publicados na WEB por meio das  plataformas do "Github Pages" e "replit".
+    
+      > A plataforma do GitHub pages foi escolhida para hospedagem da aplicação final por possuir integração direta com o repositório utilizado ao longo do desenvolvimento  
+      
+  * API'S: Foram utilizadas duas API's no desenvolvimento da funcionalidade do mapa na aplicação
+    * Google Maps Api: API do google maps que permite interagir com o mapa diretamente da página WEB
+    * Places API: Extensão do API do google maps que permite a sugestão e sugestão de lugares de acordo com o endereço fornecido pelo usuário
+ 
 
 ## Arquitetura da solução
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
+# Funcionalidades da Aplicação
+  Nesta sessão encontra-se a descrição das funcionalidades presentes na aplicação 
+  
+  * As funcionalidades apresentam-se com imagens de suas respectivas telas, estruturas de dados, desenvolvedor responsável e link disponível na WEB
 
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
-que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
+## Mapa Integrado
+A funcionalidade de Mapa permite que o usuário busque o endereço desejado
+  * Ao digitar o endereço uma sugestão surge como lista embaixo da barra de busca 
+  * API's Utilizadas: Google maps API e Places API
+  
+Desenvolvedor responsável: Ricardo Henrique Guedes Furiati
 
-Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
-redirecionado para a tela de edição de perfil (Tela 2), onde pode
-atualizar seus dados cadastrais. Nessa tela, o usuário também pode
-escolher para editar sua foto de perfil. Ao selecionar essa opção, ele é
-redirecionado para a Tela 3, onde ele a imagem expandida do perfil do
-usuário é mostrado. Ao selecionar a opção para atualizar a imagem, uma
-nova janela abre pedindo para o usuário fazer o upload da nova foto.
-Assim que o processo termina um pop-up exibe o status para o usuário
-(Tela 4) e o usuário é redirecionado para a Tela 2.
+  > Documentação disponível em: https://developers.google.com/maps/documentation <br>
+  > Funcionalidade disponível em: https://rickfuriati.github.io/Collegare/index.html <br>
 
-Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
-é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
-usuário pode clicar em um post qualquer para visualizar os detalhes do
-post (Tela 6). Nessa tela, ele pode então escolher editar o post, sendo
-redirecionado para a Tela 7. Ao editar as informações, o usuário pode
-escolher salvar ou deletar o post. Em ambos os casos o status é
-notificado para o usuário (Tela 8) e em seguida ele é redirecionado
-para a Tela 2.
 
-![Exemplo de UserFlow](images/userflow.jpg)
+<img src="https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-trabalho-autonomo/blob/015e27c3d7d2dc35a116b15d88d11972d43658b9/Documentacao/images/Funcionalidades/Mapa.png" width="400">
+
+## Cadastro de Serviços
+
+Página do cadastro do site com dois botões, um para salvar o novo cadastro do
+localstorage e outro para mostrar todos os cadastros já salvos no local storage. O botão de
+salvar já mostra automaticamente o que estava no localstorage sem a necessidade de
+apertar o botão de mostrar, além de uma função para mostrar que os espaços não podem
+ficar em branco sinalizando em vermelho as caixas de texto.
+
+Desenvolvedor Responsável: Victor Lopes Azevedo Araujo
+
+> Funcionalidade disponível em: https://vlopinhos.github.io/Cadastro-Collegare/
+
+<img src="https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-trabalho-autonomo/blob/aba9d75c159752e1cc4169613ba271a92c80b0ec/Documentacao/images/Funcionalidades/Cadastro.png" width="400">
+
+### Estrutura de Dados:
+``` javascript
+function incluirCadastro() {
+ 
+ let objDados = leDados();
+ 
+ let strNome = document.getElementById("inputNome").value;
+ let strEmpresa = document.getElementById("inputEmpresa").value;
+ let strCategoria = document.getElementById("inputCategoria").value;
+ let strEndereco = document.getElementById("inputEndereco").value;
+ let strTelefone = document.getElementById("inputTelefone").value;
+ let strEmail = document.getElementById("inputEmail").value;
+ let strDescricao = document.getElementById("inputDescricao").value;
+ 
+ let novoCadastro = {
+ 
+   nome: strNome,
+   empresa: strEmpresa,
+   categoria: strCategoria,
+   endereco: strEndereco,
+   telefone: strTelefone,
+   email: strEmail,
+   descricao: strDescricao
+ };
+ 
+ objDados.cadastros.push(novoCadastro);
+ 
+ salvaDados(objDados);
+ 
+ imprimeDados();
+ 
+}
+
+```
+
+
+
+
