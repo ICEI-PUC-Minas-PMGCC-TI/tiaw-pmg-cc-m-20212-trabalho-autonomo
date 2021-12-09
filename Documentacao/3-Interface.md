@@ -5,8 +5,10 @@ Nesta Aba você encontrará o projeto de interface da ferramenta Collegare. Util
 
 ## User-Flow
 Desenvolvemos diagramas com os possíveis fluxos de um usuário na página, destacando as funcionalidades que se encontram no menu lateral (canto esquerdo) assim como no menu dropdown (canto superior direito).
-> Os diagramas foram feitos utilizando a plataforma "Flowmapp"
+Os diagramas foram feitos utilizando a plataforma "Flowmapp"
 ![image](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-trabalho-autonomo/blob/213ea1bb02e410604d47b0eccbb8833879eebbb7/Documentacao/images/User-Flow/Menu%20Lateral.png)
+
+
 ![image](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-trabalho-autonomo/blob/213ea1bb02e410604d47b0eccbb8833879eebbb7/Documentacao/images/User-Flow/P%C3%A1gina%20Inicial.png)
 
 ## Interface
