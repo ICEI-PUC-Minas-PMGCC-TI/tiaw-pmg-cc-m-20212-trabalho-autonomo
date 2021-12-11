@@ -11,7 +11,7 @@ Os testes foram realizados pelos próprios desenvolvedores e foram modificados d
 ## CT-1: Teste do Mapa
 Objetivo: Verificar se o mapa está funcionando de forma correta, permitindo que o usuário informe um endereço e que consiga interagir com o mapa diretamente da página da aplicação.
 * Desenvolvedor Responsável: Ricardo Henrique Guedes Furiati
-* Teste pode ser realizado em: https://rickfuriati.github.io/Collegare/
+* Teste pode ser realizado em: https://rickfuriati.github.io/Collegare/index.html
 
 | Número | Cenário | Ações | Resultado Esperado |
 | ------ | --------| ----- | ------------------ |
